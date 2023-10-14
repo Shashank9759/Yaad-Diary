@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyPersonalNotesOffline" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <item name="colorPrimary">@color/lightpurple</item>
+        <item name="colorPrimaryDark">@color/DeepPurple</item>
+        <item name="colorAccent">#FFC107</item>
+    </style>
+
+    <style name="CustomBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+
+        <item name="bottomSheetStyle">@style/myBsStyle</item>
+
+    </style>
+
+    <style name="myBsStyle" parent="Widget.Design.BottomSheet.Modal">
+
+        <item name="android:background">@drawable/dshape</item>
+
+    </style>
+</resources>
