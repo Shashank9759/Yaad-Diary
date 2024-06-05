@@ -26,7 +26,8 @@
 
         <Button
             android:id="@+id/home"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:gravity="center"
             android:layout_height="50dp"
             android:padding="10dp"
@@ -39,7 +40,8 @@
                 />
         <Button
             android:id="@+id/high"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:gravity="center"
             android:layout_height="50dp"
             android:padding="10dp"
@@ -55,7 +57,8 @@
             />
         <Button
             android:id="@+id/medium"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:gravity="center"
             android:layout_height="50dp"
             android:padding="10dp"
@@ -71,7 +74,8 @@
             />
         <Button
             android:id="@+id/low"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:gravity="center"
             android:layout_height="50dp"
             android:padding="10dp"
