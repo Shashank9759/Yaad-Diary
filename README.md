@@ -1,6 +1,6 @@
 # Yaad Diary: One Solution for Your Thoughts and Ideas
 
-![Yaad Diary Logo]([path/to/logo.png](https://github.com/Shashank9759/Yaad-Diary/blob/master/app/src/main/res/drawable/logo.png))
+![Yaad Diary Logo](https://github.com/Shashank9759/Yaad-Diary/blob/master/app/src/main/res/drawable/logo.png)
 
 ## Overview
 
