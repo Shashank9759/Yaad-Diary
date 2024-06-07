@@ -42,7 +42,7 @@
 ![Home Screen](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/6280a1f4-a8ea-41b2-a0fe-45d0140b8c15)
 
 ### Create Notes
-![Create Notes]((https://github.com/Shashank9759/Yaad-Diary/assets/96882899/89f4f272-a921-44e8-abfb-cdcfefcfa6f3)
+![Create Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/89f4f272-a921-44e8-abfb-cdcfefcfa6f3)
 
 ### Delete Notes
 ![Delete Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/3fdfac9b-4583-40d3-ba22-5162edbd3f3f)
