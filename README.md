@@ -1,5 +1,3 @@
-# Yaad Diary: One Solution for Your Thoughts and Ideas
-
 ![Yaad Diary Logo](https://github.com/Shashank9759/Yaad-Diary/blob/master/app/src/main/res/drawable/logo.png)
 
 ## Overview
@@ -36,19 +34,20 @@
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/08b55455-a51b-4243-b904-0b7b66f8aad7 =250x)
+![Splash Screen](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/08b55455-a51b-4243-b904-0b7b66f8aad7)
 
 ### Home Screen
-![Home Screen](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/6280a1f4-a8ea-41b2-a0fe-45d0140b8c15 =250x)
+![Home Screen](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/6280a1f4-a8ea-41b2-a0fe-45d0140b8c15)
 
 ### Create Notes
-![Create Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/89f4f272-a921-44e8-abfb-cdcfefcfa6f3 =250x)
+![Create Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/89f4f272-a921-44e8-abfb-cdcfefcfa6f3)
 
 ### Delete Notes
-![Delete Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/3fdfac9b-4583-40d3-ba22-5162edbd3f3f =250x)
+![Delete Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/3fdfac9b-4583-40d3-ba22-5162edbd3f3f)
 
 ### Filter by Priority
-![Filter by Priority](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/48a45c99-361d-4d72-8ac5-9f48d2a0ecdf =250x)
+![Filter by Priority](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/48a45c99-361d-4d72-8ac5-9f48d2a0ecdf)
+filter_priority.png)
 
 ## Contributing
 
