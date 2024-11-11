@@ -1,5 +1,4 @@
-![Yaad Diary Logo](https://github.com/Shashank9759/Yaad-Diary/blob/master/app/src/main/res/drawable/logo.png)
-
+<img src="https://github.com/Shashank9759/Yaad-Diary/blob/master/app/src/main/res/drawable/logo.png" alt="Splash Screen" width="200"/>
 ## Overview
 
 **Yaad Diary** is an Android application developed using Kotlin that allows users to create, read, update, and delete notes. The app features a clean and intuitive interface, making it easy to organize your thoughts and ideas.
