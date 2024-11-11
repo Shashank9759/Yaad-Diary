@@ -34,20 +34,19 @@
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/08b55455-a51b-4243-b904-0b7b66f8aad7)
+<img src="https://github.com/Shashank9759/Yaad-Diary/assets/96882899/08b55455-a51b-4243-b904-0b7b66f8aad7" alt="Splash Screen" width="200"/>
 
 ### Home Screen
-![Home Screen](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/6280a1f4-a8ea-41b2-a0fe-45d0140b8c15)
+<img src="https://github.com/Shashank9759/Yaad-Diary/assets/96882899/6280a1f4-a8ea-41b2-a0fe-45d0140b8c15" alt="Home Screen" width="200"/>
 
 ### Create Notes
-![Create Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/89f4f272-a921-44e8-abfb-cdcfefcfa6f3)
+<img src="https://github.com/Shashank9759/Yaad-Diary/assets/96882899/89f4f272-a921-44e8-abfb-cdcfefcfa6f3" alt="Create Notes" width="200"/>
 
 ### Delete Notes
-![Delete Notes](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/3fdfac9b-4583-40d3-ba22-5162edbd3f3f)
+<img src="https://github.com/Shashank9759/Yaad-Diary/assets/96882899/3fdfac9b-4583-40d3-ba22-5162edbd3f3f" alt="Delete Notes" width="200"/>
 
 ### Filter by Priority
-![Filter by Priority](https://github.com/Shashank9759/Yaad-Diary/assets/96882899/48a45c99-361d-4d72-8ac5-9f48d2a0ecdf)
-filter_priority.png)
+<img src="https://github.com/Shashank9759/Yaad-Diary/assets/96882899/48a45c99-361d-4d72-8ac5-9f48d2a0ecdf" alt="Filter by Priority" width="200"/>
 
 ## Contributing
 
